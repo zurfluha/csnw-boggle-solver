@@ -38,7 +38,12 @@ The project is divided into two main parts:
    cd api
    ```
 
-2. Start the API server:
+2. Install API dependencies:
+   ```bash
+   yarn install
+   ```
+
+3. Start the API server:
    ```bash
    yarn start
    ```
@@ -52,7 +57,12 @@ The project is divided into two main parts:
    cd ui
    ```
 
-2. Start the React development server:
+2. Install UI dependencies:
+   ```bash
+   yarn install
+   ```
+
+3. Start the React development server:
    ```bash
    yarn start
    ```
