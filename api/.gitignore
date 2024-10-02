@@ -1,0 +1,25 @@
+# Dependencies
+/node_modules
+
+# Compiled output
+/dist
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+
+# IDE/Editor folders
+.vscode
+.idea
+
+# Temporary files
+/tmp
+/temp
+
+# Uploaded files
+/uploads
